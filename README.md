@@ -138,8 +138,6 @@ IMAGEM DESKTOP:
   <img src="https://github.com/user-attachments/assets/eab20ece-f068-48f7-ad7a-865d36524306" width="300">
 </p>
 
-===
-
 **PRODUTOS**
 
 IMAGEM APP: Não disponivel para aplicativo :/
