@@ -75,7 +75,7 @@
 
 IMAGEM
   
-→ ****VERSÃO DESKTOP**:**
+→ **VERSÃO DESKTOP**
 
  IMAGEM
 
