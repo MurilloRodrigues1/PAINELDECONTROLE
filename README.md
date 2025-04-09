@@ -1,3 +1,4 @@
+
 > Caio Pietro Fernandes - N° 03
 > 
 
@@ -63,7 +64,6 @@
 → **Ligação:** Mesma rede
 
 → **Ideias:**
-
 - Estrutura do site
 - Cores
 
@@ -71,59 +71,112 @@
 
 **CABEÇALHO**
 
-→ VERSÃO MOBILE**:**
+→ **VERSÃO MOBILE**
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/b570c3d1-c78c-45c9-bf94-f795ba37df83" width="350">
+</p>
 
-IMAGEM
   
 → **VERSÃO DESKTOP**
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/e8679665-888b-401c-9d60-bf2205cb5863" width="350">
+</p>
 
- IMAGEM
 
 **MENU PRINCIPAL**
 
 → VERSÃO MOBILE:
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/464ed16c-43aa-4983-87aa-fe0bd85e62a3" width="250">
+</p>
 
-IMAGEM
-    
+
 → VERSÃO DESKTOP:
 
-IMAGEM
+ <p align="left">
+  <img src="https://github.com/user-attachments/assets/f0012bb6-9526-44fe-b6f4-8a8582dffbac" width="300">
+</p>
 
 
 **RODAPÉ**
 
 → VERSÃO MOBILE:
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/72cfcd99-8fd8-4f3b-8c53-9d0a60b346d6" width="300">
+</p>
 
- IMAGEM
     
 → VERSÃO DESKTOP:
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/4fb1fd6a-7ca0-434b-8fd2-a08fb5fd9c97" width="300">
+</p>
 
- IMAGEM  
 
 **DASHBOARDS**
+IMAGEM APP:
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/0e89ede7-91a8-4121-89a8-c1227b9063d7" width="200">
+</p>
 
 
-CLIENTES
+IMAGEM DESKTOP:
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/7dc5a8b8-dffb-4135-8345-dce61f86feda" width="300">
+</p>
 
 
-PRODUTOS
+**CLIENTES**
+IMAGEM APP:
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/f9f3056e-ea80-45b4-834f-19b8914ebd5d" width="250">
+</p>
+
+IMAGEM DESKTOP:
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/eab20ece-f068-48f7-ad7a-865d36524306" width="300">
+</p>
+
+===
+
+**PRODUTOS**
+IMAGEM APP: Não disponivel para aplicativo :/
 
 
+IMAGEM DESKTOP:
+
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/c40754ac-60e8-4d29-997e-8cd6e81da81e" width="300">
+</p>
 
 **RELATÓRIO**
+IMAGEM APP:
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/b5cd7ca2-0636-4fd9-8212-beeea09f45a1" width="250">
+</p>
 
+
+IMAGEM DESKTOP:
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/9a854e96-597e-44da-809b-ad3c5a948a0d" width="300">
+</p>
 
 
 **AVALIAÇÕES**
+IMAGEM APP:
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/144f4a49-833d-422c-b069-307504684cae" width="300">
+</p>
 
 
-CONFIGURAÇÕES
-
+IMAGEM DESKTOP:
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/27a0b624-bf35-423b-8f35-47680e65f21f" width="300">
+</p>
 
 # PLANEJAMENTO
-
 ---
-
 A divisão de tarefas ficou da seguinte forma:
 
 → **Protótipo de alta fidelidade:** Daniele e Murillo;
@@ -139,5 +192,5 @@ A divisão de tarefas ficou da seguinte forma:
 ---
 
 Pegamos o protótipo de baixa fidelidade disponibilizado e produzimos o de alta fidelidade. Pegamos a paleta de cores do baff’s para ter a identidade visual e combinar com a ideia.
+-> https://www.figma.com/design/Fe26iaB9grYBQlqwZQ5vtJ/PROJETO-FRONT-END?node-id=0-1&p=f&t=XH903sofSEQiQOTU-0
 
-IMAGEM
