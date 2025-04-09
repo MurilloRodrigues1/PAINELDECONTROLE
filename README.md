@@ -31,9 +31,7 @@
 
 → ***CONCORREÊNCIA E REFERÊNCIAS*:** Pegamos referencias no próprio site da baff’s e alguns outros para estruturação.
 
-→ **Kanban:**  
-
-https://miro.com/app/board/uXjVILci-wI=/?share_link_id=968040071608
+→ **Kanban:** https://miro.com/app/board/uXjVILci-wI=/?share_link_id=968040071608
 
 # **ESTRUTURA E FUNCIONALIDADES**
 
@@ -42,24 +40,19 @@ https://miro.com/app/board/uXjVILci-wI=/?share_link_id=968040071608
 → **PÁGINAS:** As páginas são os dashboards, clientes, produtos, relatórios, avaliações, configurações e a página do cliente.
 
 → **VISUALIZAÇÕES:** Com os dashboards é possível visualizar os dados do estabelecimento, como o total de vendas, faturamento, etc.
+---
 
 # DESIGN E IDENTIDADE VISUAL
-
----
-
 → O design segue a paleta de cores do logo da baff’s, o que da a identidade visual do site.
 
-# CONTEÚDO
-
 ---
-
+# CONTEÚDO
 → O site tem dashboards que contém os dados do estabelecimento.
 
 → Ao lado temos a side bar que mostra as outras páginas do site.
 
+===
 # CONCORRÊNCIA E REFERÊNCIAS
-
----
 
 **BAFF’S SALGADERIA E CAFETERIA**
 
@@ -75,8 +68,6 @@ https://miro.com/app/board/uXjVILci-wI=/?share_link_id=968040071608
 - Cores
 
 # ESTRUTURA DO SITE
-
----
 
 **CABEÇALHO**
 
