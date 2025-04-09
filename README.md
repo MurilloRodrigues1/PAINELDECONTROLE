@@ -141,8 +141,8 @@ IMAGEM DESKTOP:
 ===
 
 **PRODUTOS**
-IMAGEM APP: Não disponivel para aplicativo :/
 
+IMAGEM APP: Não disponivel para aplicativo :/
 
 IMAGEM DESKTOP:
 
