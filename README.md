@@ -72,6 +72,9 @@ A divisão de tarefas ficou da seguinte forma:
 → **Documentação NOTION:** Matheus, Murillo, Daniel e Caio.
 
 → **Codificação:** Caio, Daniel e Matheus
+
+→ **Repositório:** Murillo.
+
 ___
 
 # PROTÓTIPO DE ALTA FIDELIDADE
