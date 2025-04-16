@@ -77,7 +77,7 @@ ___
 # PROTÓTIPO DE ALTA FIDELIDADE
 Pegamos o protótipo de baixa fidelidade disponibilizado e produzimos o de alta fidelidade. Pegamos a paleta de cores do baff’s para ter a identidade visual e combinar com a ideia.  
 -> _https://www.figma.com/design/Fe26iaB9grYBQlqwZQ5vtJ/PROJETO-FRONT-END?node-id=0-1&p=f&t=XH903sofSEQiQOTU-0_
-Resumimos a documentação do notion para carregar as imagens:
+Resumimos a documentação do notion para carregar as imagens:  
 -> _https://lizard-tangerine-a45.notion.site/DOCUMENTA-O-DO-PROJETO-rascunho-1c26cd955f7a8046961ae6b9645cc77a?pvs=4_
 ___
 
