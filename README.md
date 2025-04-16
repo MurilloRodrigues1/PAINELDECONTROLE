@@ -86,9 +86,7 @@
 **MENU PRINCIPAL**
 
 → VERSÃO MOBILE:
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/464ed16c-43aa-4983-87aa-fe0bd85e62a3" width="250">
-</p>
+
 
 
 → VERSÃO DESKTOP:
@@ -114,9 +112,7 @@
 
 **DASHBOARDS**
 IMAGEM APP:
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/0e89ede7-91a8-4121-89a8-c1227b9063d7" width="200">
-</p>
+
 
 
 IMAGEM DESKTOP:
@@ -128,9 +124,7 @@ IMAGEM DESKTOP:
 **CLIENTES**
 IMAGEM APP:
 
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/f9f3056e-ea80-45b4-834f-19b8914ebd5d" width="250">
-</p>
+
 
 IMAGEM DESKTOP:
 
@@ -143,16 +137,13 @@ IMAGEM DESKTOP:
 IMAGEM APP: Não disponivel para aplicativo :/
 
 IMAGEM DESKTOP:
-
 <p align="left">
   <img src="https://github.com/user-attachments/assets/c40754ac-60e8-4d29-997e-8cd6e81da81e" width="300">
 </p>
 
 **RELATÓRIO**
 IMAGEM APP:
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/b5cd7ca2-0636-4fd9-8212-beeea09f45a1" width="250">
-</p>
+
 
 
 IMAGEM DESKTOP:
@@ -163,9 +154,7 @@ IMAGEM DESKTOP:
 
 **AVALIAÇÕES**
 IMAGEM APP:
-<p align="left">
-  <img src="https://github.com/user-attachments/assets/144f4a49-833d-422c-b069-307504684cae" width="300">
-</p>
+
 
 
 IMAGEM DESKTOP:
