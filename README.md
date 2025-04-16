@@ -189,6 +189,7 @@ A divisão de tarefas ficou da seguinte forma:
 
 ---
 
-Pegamos o protótipo de baixa fidelidade disponibilizado e produzimos o de alta fidelidade. Pegamos a paleta de cores do baff’s para ter a identidade visual e combinar com a ideia.
--> https://www.figma.com/design/Fe26iaB9grYBQlqwZQ5vtJ/PROJETO-FRONT-END?node-id=0-1&p=f&t=XH903sofSEQiQOTU-0
+Pegamos o protótipo de baixa fidelidade disponibilizado e produzimos o de alta fidelidade. Pegamos a paleta de cores do baff’s para ter a identidade visual e combinar com a ideia.  
+-> https://www.figma.com/design/Fe26iaB9grYBQlqwZQ5vtJ/PROJETO-FRONT-END?node-id=0-1&p=f&t=XH903sofSEQiQOTU-0  
+
 
