@@ -3,7 +3,7 @@
 
 > Daniel Fonseca Monteiro - N° 05
 
-> Daniel Amaral Santos - N° 07
+> Daniele Amaral Santos - N° 07
 
 > Matheus Vinicius Gatto - N° 25
 
